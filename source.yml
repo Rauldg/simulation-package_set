@@ -53,3 +53,14 @@ version_control:
 #       - [$AUTOPROJ_SOURCE_DIR/minizip_unzip.patch, 1]
       update_cached_file: false
 
+    - simulation/envire_managers:
+      github: annaborn/envire_manager
+      branch: master
+
+    - simulation/envire_smurf_loader:
+      github: annaborn/envire_smurf_loader
+      branch: master
+
+    - simulation/envire_graphics:
+      github: annaborn/envire_graphics
+      branch: master

@@ -54,7 +54,7 @@ version_control:
       update_cached_file: false
 
     - simulation/envire_managers:
-      github: annaborn/envire_manager
+      github: annaborn/envire_managers
       branch: master
 
     - simulation/envire_smurf_loader:
